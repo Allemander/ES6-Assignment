@@ -6,5 +6,3 @@ class Employee {
       this.StoreNumber = StoreNumber;
     }
   }
-
-  
